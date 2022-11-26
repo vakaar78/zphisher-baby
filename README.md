@@ -81,7 +81,7 @@ $ zphisher
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull htrtech/zphisher
+    docker pull baby/zphisher
     ```
   - **GHCR** : 
     ```
